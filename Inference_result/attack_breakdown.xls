@@ -1,0 +1,15 @@
+Attack_Type,Count,Percentage (%)
+DoS Hulk,225237,40.66
+PortScan,159772,28.84
+DDoS,128107,23.13
+DoS GoldenEye,10357,1.87
+FTP-Patator,7846,1.42
+SSH-Patator,5906,1.07
+DoS slowloris,5815,1.05
+DoS Slowhttptest,5790,1.05
+Bot,2891,0.52
+Web Attack_Brute Force,1524,0.28
+Web Attack_XSS,651,0.12
+Infiltration,38,0.01
+Web Attack_Sql Injection,23,0.0
+Heartbleed,11,0.0

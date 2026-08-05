@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,99.649
+Macro F1,95.468
+Weighted F1,99.651
+Total Flows,2830744.0
+Benign Flows,2276776.0
+Attack Flows,553968.0
+Benign %,80.43
+Attack %,19.57
