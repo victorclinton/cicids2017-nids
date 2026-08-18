@@ -1,6 +1,5 @@
 # Large data files
 *.npy
-*.pkl
 *.pcap
 
 # Preprocessed folder

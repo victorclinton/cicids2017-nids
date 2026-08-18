@@ -1,0 +1,70 @@
+Feature_Name
+Fwd Packet Length Max
+Fwd Packet Length Min
+Bwd Packet Length Min
+Bwd Packet Length Std
+Flow Bytes/s
+Flow IAT Mean
+Flow IAT Min
+Fwd IAT Total
+Fwd IAT Std
+Fwd IAT Min
+Bwd IAT Total
+Bwd IAT Std
+Bwd IAT Max
+Bwd IAT Min
+Fwd Header Length
+Bwd Header Length
+Fwd Packets/s
+Bwd Packets/s
+Min Packet Length
+Packet Length Variance
+PSH Flag Count
+ACK Flag Count
+URG Flag Count
+CWE Flag Count
+ECE Flag Count
+Average Packet Size
+Avg Fwd Segment Size
+Subflow Fwd Bytes
+Subflow Bwd Packets
+Init_Win_bytes_forward
+Init_Win_bytes_backward
+act_data_pkt_fwd
+min_seg_size_forward
+Active Std
+Active Max
+Active Min
+Idle Std
+Idle Min
+Fwd_Bwd_Pkt_Ratio
+Bytes_Per_Packet
+Header_Payload_Ratio
+IAT_Fwd_Bwd_Ratio
+Has_SYN
+Has_FIN
+Pkt_Size_Asymmetry
+Win_Size_Ratio
+log_Fwd Header Length
+log_min_seg_size_forward
+log_act_data_pkt_fwd
+log_Subflow Bwd Packets
+log_Flow Bytes/s
+log_Flow IAT Min
+log_Bwd Packets/s
+log_IAT_Fwd_Bwd_Ratio
+log_Down/Up Ratio
+log_Min Packet Length
+log_Bwd IAT Min
+log_Fwd IAT Min
+log_Fwd Packet Length Mean
+log_Win_Size_Ratio
+log_Init_Win_bytes_backward
+log_Bwd IAT Max
+log_Flow IAT Std
+log_Fwd IAT Max
+log_Flow IAT Max
+log_Packet Length Std
+log_Init_Win_bytes_forward
+log_Bwd Packet Length Mean
+log_Pkt_Size_Asymmetry
